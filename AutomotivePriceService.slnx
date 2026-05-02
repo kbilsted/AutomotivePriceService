@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AutomotivePriceService/AutomotivePriceService.csproj" />
+  <Project Path="AutomotivePriceServiceTests/AutomotivePriceServiceTests.csproj" Id="6b09f9f0-8f2c-48e8-ae70-b614745d42cc" />
+</Solution>

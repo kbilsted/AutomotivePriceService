@@ -1,0 +1,54 @@
+{
+  "feedDate": "2026-04-25",
+  "manufacturer": "Peugeot",
+  "currency": "DKK",
+  "models": [
+    {
+      "modelId": "208-ACTIVE-PT100",
+      "modelName": "208 Active PureTech 100",
+      "priceListDKK": 199900,
+      "validFrom": "2026-05-01"
+    },
+    {
+      "modelId": "2008-ALLURE-PT130",
+      "modelName": "2008 Allure PureTech 130",
+      "priceListDKK": 269900,
+      "validFrom": "2026-05-01"
+    },
+    {
+      "modelId": "E-208-GT",
+      "modelName": "e-208 GT",
+      "validFrom": "2026-05-01"
+    },
+    {
+      "modelId": "308-SW-ALLURE",
+      "modelName": "308 SW Allure",
+      "priceListDKK": -1,
+      "validFrom": "2026-05-01"
+    },
+    {
+      "modelId": "E-3008-GT",
+      "modelName": "e-3008 GT",
+      "priceListDKK": 469900,
+      "validFrom": "2026-05-01"
+    },
+    {
+      "modelId": "5008-ALLURE-PT130",
+      "modelName": "5008 Allure PureTech 130",
+      "priceListDKK": 359900,
+      "validFrom": "2026-13-01"
+    },
+    {
+      "modelId": "208-ACTIVE-PT100",
+      "modelName": "208 Active PureTech 100 (duplicate entry)",
+      "priceListDKK": 204900,
+      "validFrom": "2026-05-01"
+    },
+    {
+      "modelId": "E-2008-ALLURE",
+      "modelName": "e-2008 Allure",
+      "priceListDKK": 329900,
+      "validFrom": "2026-05-01"
+    }
+  ]
+}
